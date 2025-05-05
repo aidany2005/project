@@ -1,3 +1,5 @@
+// Module for the Graph struct, which is useful later on for the recommendation system.
+
 type AdjList = Vec<Vec<usize>>;
 
 /// Simple struct for storing adjacency lists and reading data from them.
